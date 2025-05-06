@@ -113,15 +113,22 @@ Courses That Helped:
 ---
  
 ## 9. 📊 Dashboard File  
-Download the Power BI dashboard here:  
-👉 [**Employability_Analytics_Project.pbix**](https://github.com/KavyaSrikatla/MRPTeam11/blob/main/Employability_Analytics_Project.pbix)
  The following files are submitted as part of the final project:
 
 ✅ Employability_Analytics_Project.pbix – Final Power BI dashboard
-✅ Final_Student_Data.xlsx – Validated dataset with formulas and computed fields
-✅ Skillsoft_Survey_Responses.xlsx – Raw + cleaned survey data
-✅ Screenshots of Power BI Tabs – For UI documentation
-✅ This README.md file – Complete project documentation
+https://github.com/KavyaSrikatla/MRPTeam11/blob/main/E%20learning%20employability.pbix
+
+✅ Coursera.csv – Coursera data set
+https://github.com/KavyaSrikatla/MRPTeam11/blob/main/Coursera.csv
+
+✅ Skillsoft Percipio.csv – Skillsoft survey responses
+https://github.com/KavyaSrikatla/MRPTeam11/blob/main/Skillsoft%20Percipio.csv
+
+✅ Udemy.csv – Udemy data set
+https://github.com/KavyaSrikatla/MRPTeam11/blob/main/Udemy.csv
+
+✅ README.md – Complete project documentation
+https://github.com/KavyaSrikatla/MRPTeam11/blob/main/README.md
 ---
 ## 10. Team Roles
 - Hema: Data preprocessing and validation
