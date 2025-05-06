@@ -59,9 +59,8 @@ This application enables students to track their learning progress and employabi
    - Selection of courses based on rating
    - Selection of courses based on level
    - Employability readiness scores
-
 Course completion rates
-4. Export reports using the **Export** option in Power BI.
+5. Export reports using the **Export** option in Power BI.
  
 ### Sample Screenshot:
 ![image](https://github.com/KavyaSrikatla/MRPTeam11/blob/main/coursera.png)
@@ -71,37 +70,32 @@ Course completion rates
 ---
  
 ## 6. Features
-✅ Employability Readiness Score: Evaluate your job readiness in real-time.
-
-✅ Platform Performance Tracker: Compare course effectiveness across Skillsoft, Udemy, Coursera.
-
-✅ Advisor Ranking: See which advisors produce the best employability outcomes.
-
-✅ Dynamic Filtering: Slice data by department, course, or advisor.
-
-✅ Export & Report: Generate polished, shareable reports directly from Power BI.
-
-✅ Dynamic Dashboard:Real-time overview of student progress, course completion rates, and employment readiness.  
+Employability Readiness Score: Evaluate your job readiness in real-time.
+Platform Performance Tracker: Compare course effectiveness across Skillsoft, Udemy, Coursera.
+Advisor Ranking: See which advisors produce the best employability outcomes.
+Dynamic Filtering: Slice data by department, course, or advisor.
+Export & Report: Generate polished, shareable reports directly from Power BI.
+Dynamic Dashboard:Real-time overview of student progress, course completion rates, and employment readiness.  
 
 ---
  
 ## 7. Ensuring Data Accuracy & Reliability
-- Duplicate Removal: Removed duplicate courses from Coursera and Udemy.
+- **Duplicate Removal:** Removed duplicate courses from Coursera and Udemy.
 - **Missing Data Handling:** Managed missing values using median imputation and "Unknown" placeholders.
 - **Referential Integrity:** Ensured primary key relationships between User ID and Course Title.
 - **Field-Level Integrity:** Converted all numeric data to the correct types and validated consistency.
- Data Validation & Preparation
--  Null Handling: Replaced missing fields with median or "Unknown".
--  🔑 Referential Integrity: Maintained primary key relationships.
--  🧮 Custom Calculations:
+- **Data Validation & Preparation:**
+   - Null Handling: Replaced missing fields with median or "Unknown".
+   - Referential Integrity: Maintained primary key relationships.
+-  **Custom Calculations:**
    - Readiness Score: Weighted score based on course completion, platform quality, and advisor engagement.
    - Filtering invalid entries or duplicates.
-- 📚 Tools Used: Power BI DAX, Excel formulas, and manual quality review.
-Courses That Helped:
-- Data-Driven Decision Making (user modeling & KPI alignment)
-- Power BI for Business Intelligence (dashboard creation, DAX)
-- Survey Research Methods (Skillsoft survey design & analysis)
-- ata Wrangling (data cleaning, joining, and transformation)
+- **Tools Used:** Power BI DAX, Excel formulas, and manual quality review.
+- **Courses That Helped:**
+ - Data-Driven Decision Making (user modeling & KPI alignment)
+ - Power BI for Business Intelligence (dashboard creation, DAX)
+ - Survey Research Methods (Skillsoft survey design & analysis)
+ - Data Wrangling (data cleaning, joining, and transformation)
 
 ---
  
