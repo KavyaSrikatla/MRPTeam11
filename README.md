@@ -64,9 +64,9 @@ Course completion rates
 4. Export reports using the **Export** option in Power BI.
  
 ### Sample Screenshot:
-![image](https://github.com/user-attachments/assets/bf0d4972-cf65-4bff-8e23-51e0e0800ce0)
-![image](https://github.com/user-attachments/assets/54d8bfaa-d01a-42ee-9d62-4ac86006723b)
-![image](https://github.com/user-attachments/assets/e0d8e019-d0a0-4512-aed8-b4df3a33fec9)
+![image](https://github.com/KavyaSrikatla/MRPTeam11/blob/main/coursera.png)
+![image](https://github.com/KavyaSrikatla/MRPTeam11/blob/main/udemy.png)
+![image](https://github.com/KavyaSrikatla/MRPTeam11/blob/main/skillsoft.png)
  
 ---
  
