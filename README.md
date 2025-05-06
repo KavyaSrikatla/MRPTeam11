@@ -3,12 +3,12 @@
  
 ## 1. Project Title
 **Employment Analytics Project**  
-*A comprehensive platform to enhance student career success through data-driven insights.*  
+*A comprehensive Power BI platform developed to help students at Saint Louis University enhance their career success through data-driven insights.*  
  
 ---
  
 ## 2. Project Description
-This project focuses on designing a **Student Progress Monitoring and Employment Analytics GUI** using **Power BI** to evaluate learning insights from platforms like **Skillsoft Percipio, Coursera, and Udemy**. The system tracks skill development, course fulfillment, and employment competence to provide personalized job and skill recommendations.
+This application enables students to track their learning progress and employability using real-time data from platforms like Skillsoft Percipio, Coursera, and Udemy. It aligns their course completions, skill acquisition, and readiness scores with current job market needs—offering personalized career guidance through interactive dashboards.
  
 ### Key Features:
 - Real-time tracking of student progress and career readiness.
@@ -23,19 +23,24 @@ This project focuses on designing a **Student Progress Monitoring and Employment
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Ensuring Data Accuracy & Reliability](#ensuring-data-accuracy--reliability)
+- [Data Validation & Preparation](#data-validation--preparation)
+- [Team Reflection](#team-reflection)
+- [Team Roles](#team-roles)
 - [Contributing](#contributing)
 - [License](#license)
- 
+- [Acknowledgements](#acknowledgements)
 ---
  
 ## 4. Installation / Setup
 ### Power BI File Setup:
 1. Download the Power BI file (`Employbility_Analytics_Project.pbix`).
 2. Open the file using Power BI Desktop.
-3. Ensure that all data sources are properly connected.
+3. Ensure all data connections to Skillsoft, Coursera, and Udemy are verified..
  
 ### Data Connection:
 - Ensure that Skillsoft Percipio, Coursera, and Udemy data sources are properly linked in Power BI.
+- Refresh to retrieve updated metrics before usage.
 - Verify that credentials and permissions are configured correctly.
  
 ---
@@ -48,6 +53,14 @@ This project focuses on designing a **Student Progress Monitoring and Employment
    - Skill acquisition progress
    - Course completion rates
    - Employment readiness metrics
+4. Use filters to drill into:
+   - Skill development by platform
+   - Selection of courses based on skill
+   - Selection of courses based on rating
+   - Selection of courses based on level
+   - Employability readiness scores
+
+Course completion rates
 4. Export reports using the **Export** option in Power BI.
  
 ### Sample Screenshot:
@@ -58,20 +71,38 @@ This project focuses on designing a **Student Progress Monitoring and Employment
 ---
  
 ## 6. Features
-✅ **Dynamic Dashboard:** Real-time overview of student progress, course completion rates, and employment readiness.  
-✅ **Skill & Employment Analytics:** Tracks acquired skills and matches them with job market trends.  
-✅ **Data Filtering & Customization:** Refine analysis based on courses, skills, and employment categories.  
-✅ **Report Generation & Exporting:** Export insights into PDF, Excel, or other formats directly from Power BI.  
-✅ **Interactive Visuals:** Drill-down capabilities for deeper analysis.  
- 
+✅ Employability Readiness Score: Evaluate your job readiness in real-time.
+
+✅ Platform Performance Tracker: Compare course effectiveness across Skillsoft, Udemy, Coursera.
+
+✅ Advisor Ranking: See which advisors produce the best employability outcomes.
+
+✅ Dynamic Filtering: Slice data by department, course, or advisor.
+
+✅ Export & Report: Generate polished, shareable reports directly from Power BI.
+
+✅ Dynamic Dashboard:Real-time overview of student progress, course completion rates, and employment readiness.  
+
 ---
  
 ## 7. Ensuring Data Accuracy & Reliability
-- **Duplicate Removal:** Removed duplicate courses from Coursera and Udemy.
+- Duplicate Removal: Removed duplicate courses from Coursera and Udemy.
 - **Missing Data Handling:** Managed missing values using median imputation and "Unknown" placeholders.
 - **Referential Integrity:** Ensured primary key relationships between User ID and Course Title.
 - **Field-Level Integrity:** Converted all numeric data to the correct types and validated consistency.
- 
+ Data Validation & Preparation
+-  Null Handling: Replaced missing fields with median or "Unknown".
+-  🔑 Referential Integrity: Maintained primary key relationships.
+-  🧮 Custom Calculations:
+   - Readiness Score: Weighted score based on course completion, platform quality, and advisor engagement.
+   - Filtering invalid entries or duplicates.
+- 📚 Tools Used: Power BI DAX, Excel formulas, and manual quality review.
+Courses That Helped:
+- Data-Driven Decision Making (user modeling & KPI alignment)
+- Power BI for Business Intelligence (dashboard creation, DAX)
+- Survey Research Methods (Skillsoft survey design & analysis)
+- ata Wrangling (data cleaning, joining, and transformation)
+
 ---
  
 ## 8. Refining Data: From Raw to Ready
@@ -84,21 +115,41 @@ This project focuses on designing a **Student Progress Monitoring and Employment
 ## 9. 📊 Dashboard File  
 Download the Power BI dashboard here:  
 👉 [**Employability_Analytics_Project.pbix**](https://github.com/KavyaSrikatla/MRPTeam11/blob/main/Employability_Analytics_Project.pbix)
- 
- 
+ The following files are submitted as part of the final project:
+
+✅ Employability_Analytics_Project.pbix – Final Power BI dashboard
+✅ Final_Student_Data.xlsx – Validated dataset with formulas and computed fields
+✅ Skillsoft_Survey_Responses.xlsx – Raw + cleaned survey data
+✅ Screenshots of Power BI Tabs – For UI documentation
+✅ This README.md file – Complete project documentation
 ---
- 
-## 10. Contributing
+## 10. Team Roles
+- Hema: Data preprocessing and validation
+- Ayyappa: Power BI modeling
+- Kavya Sri & Kavya Reddy: Data integrity checks, UI/UX design, survey analytics
+- Subhash & Sahithi: Documentation
+
+## 11. Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to modify.
  
 ---
+
+## 12. Team Reflection
+
+This project taught us how to:
+
+- Define and refine a clear user-centered problem (students as primary decision-makers).
+- Coordinate tasks and timelines across six team members.
+- Acquire domain knowledge in employability analytics.
+- Manage real datasets across multiple sources.
+- Apply visual storytelling to support career guidance.
  
-## 11. License
+## 13. License
 MIT License. See [LICENSE](LICENSE) for details.
  
 ---
  
-## 12. Acknowledgements
+## 14. Acknowledgements
 Shoutout to **Team 11** for their incredible effort:
 - Ayyappa Kalluri  
 - Hema Chowdary Kankanala  
