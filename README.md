@@ -109,17 +109,10 @@ Dynamic Dashboard:Real-time overview of student progress, course completion rate
 ## 9. Dashboard File  
  The following files are submitted as part of the final project:
 
-✅ Employability_Analytics_Project.pbix – Final Power BI dashboard
-https://github.com/KavyaSrikatla/MRPTeam11/blob/main/E%20learning%20employability.pbix
-
-✅ Coursera.csv – Coursera data set
-https://github.com/KavyaSrikatla/MRPTeam11/blob/main/Coursera.csv
-
-✅ Skillsoft Percipio.csv – Skillsoft survey responses
-https://github.com/KavyaSrikatla/MRPTeam11/blob/main/Skillsoft%20Percipio.csv
-
-✅ Udemy.csv – Udemy data set
-https://github.com/KavyaSrikatla/MRPTeam11/blob/main/Udemy.csv
+**Final Power BI dashboard** - E learning employability.pbix 
+**Coursera data set** - Coursera.csv 
+**Skillsoft survey responses** - Skillsoft Percipio.csv
+**Udemy data set** - Udemy.csv
 
 ✅ README.md – Complete project documentation
 https://github.com/KavyaSrikatla/MRPTeam11/blob/main/README.md
