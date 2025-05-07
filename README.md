@@ -113,9 +113,7 @@ Dynamic Dashboard:Real-time overview of student progress, course completion rate
 **Coursera data set** - Coursera.csv 
 **Skillsoft survey responses** - Skillsoft Percipio.csv
 **Udemy data set** - Udemy.csv
-
-✅ README.md – Complete project documentation
-https://github.com/KavyaSrikatla/MRPTeam11/blob/main/README.md
+** README.md – Complete project documentation** - https://github.com/KavyaSrikatla/MRPTeam11/blob/main/README.md
 ---
 ## 10. Team Roles
 - Hema: Data preprocessing and validation
