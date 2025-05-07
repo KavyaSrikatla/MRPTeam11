@@ -34,7 +34,7 @@ This application enables students to track their learning progress and employabi
  
 ## 4. Installation / Setup
 ### Power BI File Setup:
-1. Download the Power BI file (`Employbility_Analytics_Project.pbix`).
+1. Download the Power BI file (`E learning employability.pbix`).
 2. Open the file using Power BI Desktop.
 3. Ensure all data connections to Skillsoft, Coursera, and Udemy are verified..
  
@@ -109,11 +109,11 @@ Dynamic Dashboard:Real-time overview of student progress, course completion rate
 ## 9. Dashboard File  
  The following files are submitted as part of the final project:
 
-**Final Power BI dashboard** - E learning employability.pbix 
-**Coursera data set** - Coursera.csv 
-**Skillsoft survey responses** - Skillsoft Percipio.csv
-**Udemy data set** - Udemy.csv
-** README.md – Complete project documentation** - https://github.com/KavyaSrikatla/MRPTeam11/blob/main/README.md
+[Final Power BI dashboard](https://github.com/KavyaSrikatla/MRPTeam11/blob/98fdee161d937f7d58470f80ef06ed4763bd5f7a/E%20learning%20employability.pbix)
+[Coursera data set](https://github.com/KavyaSrikatla/MRPTeam11/blob/98fdee161d937f7d58470f80ef06ed4763bd5f7a/Coursera.csv)
+[Skillsoft survey responses](https://github.com/KavyaSrikatla/MRPTeam11/blob/8b3fbeed162afb961def17e639bc8fbe1ea75460/Skillsoft%20Percipio.csv)
+[Udemy data set](https://github.com/KavyaSrikatla/MRPTeam11/blob/98fdee161d937f7d58470f80ef06ed4763bd5f7a/Udemy.csv)
+[README.md – Complete project documentation](https://github.com/KavyaSrikatla/MRPTeam11/blob/main/README.md)
 ---
 ## 10. Team Roles
 - Hema: Data preprocessing and validation
