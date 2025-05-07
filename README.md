@@ -20,17 +20,19 @@ This application enables students to track their learning progress and employabi
 ---
  
 ## 3. Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Ensuring Data Accuracy & Reliability](#ensuring-data-accuracy--reliability)
-- [Data Validation & Preparation](#data-validation--preparation)
-- [Team Reflection](#team-reflection)
-- [Team Roles](#team-roles)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
----
+## 3. Table of Contents
+- [Installation / Setup](#4-installation--setup)
+- [Usage](#5-usage)
+- [Features](#6-features)
+- [Ensuring Data Accuracy & Reliability](#7-ensuring-data-accuracy--reliability)
+- [Refining Data: From Raw to Ready](#8-refining-data-from-raw-to-ready)
+- [Dashboard File](#9-dashboard-file)
+- [Team Roles](#10-team-roles)
+- [Contributing](#11-contributing)
+- [Team Reflection](#12-team-reflection)
+- [License](#13-license)
+- [Acknowledgements](#14-acknowledgements)
+
  
 ## 4. Installation / Setup
 ### Power BI File Setup:
