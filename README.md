@@ -19,7 +19,7 @@ This application enables students to track their learning progress and employabi
  
 ---
  
-## 3. Table of Contents
+
 ## 3. Table of Contents
 - [Installation / Setup](#4-installation--setup)
 - [Usage](#5-usage)
